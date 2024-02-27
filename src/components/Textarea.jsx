@@ -1,7 +1,6 @@
 import { useState } from "react";
 
-function Textarea() {
-  const [text, setText] = useState("");
+function Textarea({ text, setText }) {
   const [showWarning, setShowWarning] = useState(false);
 
   const handleChange = (e) => {
