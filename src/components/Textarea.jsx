@@ -1,5 +1,5 @@
 function Textarea() {
-  return <textarea></textarea>;
+  return <textarea className="textarea"></textarea>;
 }
 
 export default Textarea;

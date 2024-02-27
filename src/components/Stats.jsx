@@ -1,5 +1,5 @@
 function Stats() {
-  return <section>Stats</section>;
+  return <section className="stats">Stats</section>;
 }
 
 export default Stats;
