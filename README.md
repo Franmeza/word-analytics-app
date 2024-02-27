@@ -18,9 +18,12 @@ Input Text: Users can input their desired text into the designated field within 
 
 Analysis: Upon inputting text, the application instantly calculates the word count, character count, and remaining characters for Instagram and Facebook posts.
 
+Validation: It will display a warning if the segment '< script >' is added.
+
 Optimize Content: Based on the analysis results, users can optimize their content to align with platform-specific requirements. Whether crafting captions, comments, or status updates, Word Analytics empowers users to create compelling and concise social media content.
 
 ## Technologies Used:
 
 -Vite 4.4.1
 -React 18.2.8
+-CSS
